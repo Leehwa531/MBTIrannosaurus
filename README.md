@@ -1,1 +1,1 @@
-# MBTRIP
+# MBTIrannosaurus
