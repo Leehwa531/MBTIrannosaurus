@@ -10,6 +10,8 @@ MBTI 기반 여행 추천 웹 서비스 백엔드
 - Swagger(Sprindoc) 설정 예정
 
 ## 📁 패키지 구조
+
+```text
 com.mbtirannosaurus
 ├── config
 ├── controller
